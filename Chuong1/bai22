@@ -1,0 +1,4 @@
+Nhapgianiemyet=int(input('Gia niem yet:'))
+Nhapchietkhau=int(input('Chiet Khau:'))
+VAT=(Nhapgianiemyet - Nhapchietkhau)*0.01
+print("Gia ban:" ,Nhapgianiemyet-Nhapchietkhau+VAT)

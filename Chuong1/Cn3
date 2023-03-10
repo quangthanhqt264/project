@@ -1,0 +1,6 @@
+print("Nhap hai canh ke cua tam giac vuong:")
+a=int(input(" "))
+b=int(input(" "))
+ch=a**2+b**2
+import math
+print("Canh ke thu nhat:" ,a,",", "canh ke thu hai:" ,b,"," ,"co canh huyen = ",round(math.sqrt(ch),2))
