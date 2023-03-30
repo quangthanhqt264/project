@@ -8,9 +8,4 @@ elif 101<=ĐNTT<=150:
     TD=((MC1*100)+(ĐNTT-100)*MC2)
 else:
     TD=((MC1*100)+(MC2*50)+(ĐNTT-150)*MC3)
-print("Phai tra="+str(TD))
-    
- 
-    
-    
-    
+print("Phai tra="+str(TD))   
